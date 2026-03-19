@@ -1,4 +1,4 @@
-# PharmaTrack — Smart Pharmacy Inventory & Risk Management System
+# PharmaTrack - Smart Pharmacy Inventory & Risk Management System
 
 ## Overview
 
